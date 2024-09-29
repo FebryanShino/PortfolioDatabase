@@ -1,0 +1,66 @@
+[
+  {
+    "uniqueId": "amogus-stairs",
+    "name": "Amogus Stairs",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/amogus-stairs/1.png",
+    "createdAt": "2024-3-18"
+  },
+  {
+    "uniqueId": "gaming-room",
+    "name": "Gaming Room",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/gaming-room/1.png",
+    "createdAt": "2020-6-15"
+  },
+  {
+    "uniqueId": "glass-of-depression",
+    "name": "Glass of Depression",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/glass-of-depression/1.png",
+    "createdAt": "2024-1-15"
+  },
+  {
+    "uniqueId": "magical-land",
+    "name": "Magical Land",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/magical-land/1.png",
+    "createdAt": "2024-2-12"
+  },
+  {
+    "uniqueId": "mie-ayam",
+    "name": "Mie Ayam",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/mie-ayam/1.png",
+    "createdAt": "2024-3-28"
+  },
+  {
+    "uniqueId": "mysterious-laboratory",
+    "name": "Mysterious Laboratory",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/mysterious-laboratory/1.png",
+    "createdAt": "2020-5-10"
+  },
+  {
+    "uniqueId": "old-library",
+    "name": "Old Library",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/old-library/1.png",
+    "createdAt": "2020-5-13"
+  },
+  {
+    "uniqueId": "setup-room",
+    "name": "Setup Room",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/setup-room/1.png",
+    "createdAt": "2024-9-10"
+  }
+]
