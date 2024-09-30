@@ -8,6 +8,30 @@
     "createdAt": "2024-3-18"
   },
   {
+    "uniqueId": "arc-city",
+    "name": "Arc City",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/arc-city/1.png",
+    "createdAt": "2020-7-15"
+  },
+  {
+    "uniqueId": "formula-one",
+    "name": "Formula 1",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/formula-one/1.png",
+    "createdAt": "2020-2-18"
+  },
+  {
+    "uniqueId": "futuristic-city",
+    "name": "Futuristic City",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/futuristic-city/1.png",
+    "createdAt": "2020-7-15"
+  },
+  {
     "uniqueId": "gaming-room",
     "name": "Gaming Room",
     "renderEngine": "CYCLES",
@@ -22,6 +46,14 @@
     "compressedImageUrl": "",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/glass-of-depression/1.png",
     "createdAt": "2024-1-15"
+  },
+  {
+    "uniqueId": "lego-land",
+    "name": "Lego Land",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/lego-land/1.png",
+    "createdAt": "2024-3-31"
   },
   {
     "uniqueId": "magical-land",
@@ -56,11 +88,51 @@
     "createdAt": "2020-5-13"
   },
   {
+    "uniqueId": "reunion",
+    "name": "Reunion",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/reunion/1.png",
+    "createdAt": "2020-7-14"
+  },
+  {
     "uniqueId": "setup-room",
     "name": "Setup Room",
     "renderEngine": "CYCLES",
     "compressedImageUrl": "",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/setup-room/1.png",
     "createdAt": "2024-9-10"
+  },
+  {
+    "uniqueId": "spacecar",
+    "name": "Spacecar",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/spacecar/1.png",
+    "createdAt": "2020-3-26"
+  },
+  {
+    "uniqueId": "spaceship",
+    "name": "Setup Room",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/spaceship/1.png",
+    "createdAt": "2020-3-29"
+  },
+  {
+    "uniqueId": "time-express",
+    "name": "Time Express",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/time-express/1.png",
+    "createdAt": "2024-1-5"
+  },
+  {
+    "uniqueId": "van",
+    "name": "Setup Room",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/van/1.png",
+    "createdAt": "2019-9-29"
   }
 ]
