@@ -1,1 +1,13 @@
-{"uniqueId": "setup-room", "variations": [], "instagramUrl": "", "twitterUrl": ""}
+{
+  "uniqueId": "setup-room",
+  "variations": [
+    "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/setup-room/variations/sample 20 SHADE BED.png",
+    "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/setup-room/variations/sample 20 SHADE RIGHT.png",
+    "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/setup-room/variations/sample 20 SHADE.png",
+    "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/setup-room/variations/sample 21 SHADE BED.png",
+    "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/setup-room/variations/sample 21 SHADE RIGHT.png",
+    "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/setup-room/variations/sample 21 SHADE.png"
+  ],
+  "instagramUrl": "",
+  "twitterUrl": ""
+}
