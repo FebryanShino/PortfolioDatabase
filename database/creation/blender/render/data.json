@@ -96,6 +96,14 @@
     "createdAt": "2020-7-14"
   },
   {
+    "uniqueId": "scifi-racecar",
+    "name": "Sci-Fi Racecar",
+    "renderEngine": "CYCLES",
+    "compressedImageUrl": "",
+    "createdAt": "2020-2-25",
+    "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/scifi-racecar/1.png"
+  },
+  {
     "uniqueId": "setup-room",
     "name": "Setup Room",
     "renderEngine": "CYCLES",
