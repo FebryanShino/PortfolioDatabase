@@ -129,7 +129,7 @@
   },
   {
     "uniqueId": "van",
-    "name": "Setup Room",
+    "name": "Van",
     "renderEngine": "CYCLES",
     "compressedImageUrl": "",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/van/1.png",
