@@ -3,7 +3,7 @@
     "uniqueId": "amogus-stairs",
     "name": "Amogus Stairs",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/amogus-stairs/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/amogus-stairs/1.png",
     "createdAt": "2024-3-18"
   },
@@ -11,7 +11,7 @@
     "uniqueId": "arc-city",
     "name": "Arc City",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/arc-city/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/arc-city/1.png",
     "createdAt": "2020-7-15"
   },
@@ -19,7 +19,7 @@
     "uniqueId": "flying-car",
     "name": "Flying Car",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/flying-car/1.png",
     "createdAt": "2019-12-12",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/flying-car/1.png"
   },
@@ -27,7 +27,7 @@
     "uniqueId": "formula-one",
     "name": "Formula 1",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/formula-one/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/formula-one/1.png",
     "createdAt": "2020-2-18"
   },
@@ -35,7 +35,7 @@
     "uniqueId": "futuristic-city",
     "name": "Futuristic City",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/futuristic-city/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/futuristic-city/1.png",
     "createdAt": "2020-7-15"
   },
@@ -43,7 +43,7 @@
     "uniqueId": "gaming-room",
     "name": "Gaming Room",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/gaming-room/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/gaming-room/1.png",
     "createdAt": "2020-6-15"
   },
@@ -51,7 +51,7 @@
     "uniqueId": "glass-of-depression",
     "name": "Glass of Depression",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/glass-of-depression/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/glass-of-depression/1.png",
     "createdAt": "2024-1-15"
   },
@@ -59,7 +59,7 @@
     "uniqueId": "lego-land",
     "name": "Lego Land",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/lego-land/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/lego-land/1.png",
     "createdAt": "2024-3-31"
   },
@@ -67,7 +67,7 @@
     "uniqueId": "magical-land",
     "name": "Magical Land",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/magical-land/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/magical-land/1.png",
     "createdAt": "2024-2-12"
   },
@@ -75,7 +75,7 @@
     "uniqueId": "mie-ayam",
     "name": "Mie Ayam",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/mie-ayam/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/mie-ayam/1.png",
     "createdAt": "2024-3-28"
   },
@@ -83,7 +83,7 @@
     "uniqueId": "mysterious-laboratory",
     "name": "Mysterious Laboratory",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/mysterious-laboratory/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/mysterious-laboratory/1.png",
     "createdAt": "2020-5-10"
   },
@@ -91,7 +91,7 @@
     "uniqueId": "old-library",
     "name": "Old Library",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/old-library/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/old-library/1.png",
     "createdAt": "2020-5-13"
   },
@@ -99,7 +99,7 @@
     "uniqueId": "reunion",
     "name": "Reunion",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/reunion/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/reunion/1.png",
     "createdAt": "2020-7-14"
   },
@@ -107,7 +107,7 @@
     "uniqueId": "scifi-racecar",
     "name": "Sci-Fi Racecar",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/scifi-racecar/1.png",
     "createdAt": "2020-2-25",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/scifi-racecar/1.png"
   },
@@ -115,7 +115,7 @@
     "uniqueId": "setup-room",
     "name": "Setup Room",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/setup-room/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/setup-room/1.png",
     "createdAt": "2024-9-10"
   },
@@ -123,7 +123,7 @@
     "uniqueId": "spacecar",
     "name": "Spacecar",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/spacecar/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/spacecar/1.png",
     "createdAt": "2020-3-26"
   },
@@ -131,7 +131,7 @@
     "uniqueId": "spaceship",
     "name": "Spaceship",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/spaceship/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/spaceship/1.png",
     "createdAt": "2020-3-29"
   },
@@ -139,7 +139,7 @@
     "uniqueId": "time-express",
     "name": "Time Express",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/time-express/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/time-express/1.png",
     "createdAt": "2024-1-5"
   },
@@ -147,7 +147,7 @@
     "uniqueId": "van",
     "name": "Van",
     "renderEngine": "CYCLES",
-    "compressedImageUrl": "",
+    "compressedImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/van/1.png",
     "originalImageUrl": "https://febryanshino.github.io/PortfolioDatabase/database/creation/blender/render/van/1.png",
     "createdAt": "2019-9-29"
   }
